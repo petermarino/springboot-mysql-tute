@@ -1,0 +1,10 @@
+com\jackrutorial\service\UserServiceImpl.class
+com\jackrutorial\controller\UserController.class
+com\jackrutorial\DemoApplication.class
+com\jackrutorial\repository\RoleRespository.class
+com\jackrutorial\service\UserService.class
+com\jackrutorial\configuration\SecurityConfiguration.class
+com\jackrutorial\model\User.class
+com\jackrutorial\configuration\WebMvcConfig.class
+com\jackrutorial\repository\UserRepository.class
+com\jackrutorial\model\Role.class
